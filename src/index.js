@@ -11,6 +11,10 @@ root.render(
     <App />
     <h1>The Weather App</h1>
     <Search />
+    <footer>
+      <a href="https://github.com/cristinafor/weather-app">Open-source code</a>{" "}
+      by Cristina Fornasier
+    </footer>
   </React.StrictMode>
 );
 
